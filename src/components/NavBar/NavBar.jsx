@@ -6,7 +6,7 @@ export default function NavBar () {
   return (
     <nav className='nav-bar'>
       <div>
-        <p className='logo'>METALCORD</p>
+        <p className='logo'>METALCORD BELEN</p>
       </div>
       <div className='email-box'>
         <EmailIcon width={40} />
