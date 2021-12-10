@@ -1,0 +1,25 @@
+.options-container {
+    background-color: #191942; 
+    display: flex;
+    justify-content: center;
+    height: 36px;
+    align-items: center;
+}
+
+.options-container li {
+    list-style: none;
+}
+
+.options-container a {
+    text-decoration: none;
+    color: white;
+
+}
+
+.options-container ul {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    width: 70%;
+    justify-content: space-around;
+}
