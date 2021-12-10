@@ -1,7 +1,7 @@
 {
   "name": "testing22",
-  "version": "0.0.0",
-  "homepage": "http://emm3000.github.io/belen/",
+  "version": "0.1.0",
+  "homepage": "http://emm3000.github.io/belen",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
