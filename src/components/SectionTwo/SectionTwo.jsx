@@ -19,7 +19,7 @@ function ItemFunction () {
 export default function SectionTwo () {
   return (
     <div className=''>
-      <p className='two-title'>NUESTROS SERVICIOS</p>
+      <p className='two-title'>NUESTROS SERVICIOS xxcx</p>
       <p className='two-subtitle'>Suministro, Fabricación y Montaje de Estructuras Metálicas</p>
       <div className='two-container'>
         <ItemFunction />

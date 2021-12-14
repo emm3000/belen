@@ -3,6 +3,8 @@ import NavBar from './components/NavBar/NavBar'
 import Options from './components/Options/Options'
 import SectionOne from './components/SectionOne/SectionOne'
 import SectionTwo from './components/SectionTwo/SectionTwo'
+import SectionThree from './components/SectionThree/SectionThree'
+import Footer from './components/footer/Footer'
 
 function App () {
   return (
@@ -11,6 +13,8 @@ function App () {
       <Options />
       <SectionOne />
       <SectionTwo />
+      <SectionThree />
+      <Footer />
     </div>
   )
 }

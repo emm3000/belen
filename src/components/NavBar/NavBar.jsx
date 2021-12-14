@@ -8,11 +8,11 @@ export default function NavBar () {
       <div>
         <p className='logo'>METALCORD BELEN</p>
       </div>
-      <div className='email-box'>
+      <div className='email-box nav-one'>
         <EmailIcon width={40} />
         <p className='email-label'>metalcord@gmail.com</p>
       </div>
-      <div>
+      <div className='nav-one'>
         Datos personales
       </div>
     </nav>

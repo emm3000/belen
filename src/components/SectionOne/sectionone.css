@@ -101,3 +101,21 @@
     75% { margin-left: -300%; }
     100% { margin-left: -300%; }
 }
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    .one-content-form {
+        display: none;
+    }
+
+    .one-content-labels p {
+        font-size: 1.7rem;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+  
+    .one-content .one-content-labels{
+        width: 100%;
+    }
+  
+}
+

@@ -90,3 +90,14 @@
 .two-flex-item:hover .two-bottom {
     transform: translate(0, 0%);
 }
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    .two-flex-item {
+        width: 95%;
+       
+    }
+    .two-container {
+        width: 100%;
+        justify-content: center;
+    }
+}
