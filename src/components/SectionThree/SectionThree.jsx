@@ -6,7 +6,7 @@ import './sectionthree.css'
 
 export default function SectionThree () {
   return (
-    <div>
+    <div id='contactos'>
       <h1 className='th-title'>Contacto</h1>
       <div className='th-flex-container'>
         <div className='th-item one-item'>
@@ -14,15 +14,15 @@ export default function SectionThree () {
           <ul>
             <li>
               <PhoneIcon width={35} />
-              <p>924874167</p>
+              <p>(054) 780400</p>
             </li>
             <li>
               <PhoneIcon width={35} />
-              <p> 924874167</p>
+              <p> 959 602 815</p>
             </li>
             <li>
               <PhoneIcon width={35} />
-              <p> 924874167</p>
+              <p> 964157514</p>
             </li>
           </ul>
           <h2>EMAIL:</h2>
@@ -33,7 +33,7 @@ export default function SectionThree () {
           <h2>DIRECCIÓN:</h2>
           <div className='th-email'>
             <LocationIcon width={40} />
-            <p>Urb. La Cruceta III, Block 5, Dpto. 102, Santiago de Surco, Lima</p>
+            <p>Calle Pedro Diaz Canseco #307 San Juan de Dios Hunter </p>
           </div>
         </div>
         <div className='th-item two-item'>

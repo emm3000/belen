@@ -77,15 +77,14 @@
     opacity: 0.3;
 }
 
-.two-flex-item:hover .two-img-title {
-    /* opacity: 0; */
-    /* width: 100%; */
+/* .two-flex-item:hover .two-img-title {
+  
     width: 100%;
     text-align: center;
     left: 50%;
     bottom: 50%;
     transform: translate(-50%, -50%);
-}
+} */
 
 .two-flex-item:hover .two-bottom {
     transform: translate(0, 0%);

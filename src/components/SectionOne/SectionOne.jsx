@@ -3,7 +3,7 @@ import './sectionone.css'
 
 export default function SectionOne () {
   return (
-    <div className='one-container'>
+    <div className='one-container' id='inicio'>
       <ul>
         <li><img src='https://images.unsplash.com/photo-1513710239666-c29e2c09dc32?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80' alt='' /></li>
         <li><img src='https://images.unsplash.com/photo-1585201731775-0597e1be4bfb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=715&q=80' alt='' /></li>
@@ -12,11 +12,12 @@ export default function SectionOne () {
       </ul>
       <div className='one-content'>
         <div className='one-content-labels'>
-          <p>Especialistas:</p>
-          <p>Naves Industriales</p>
-          <p>Techos Metalicos</p>
-          <p>Estructuras metalicas</p>
-          <p>Servicios generales</p>
+          <p>Estructuras Metálicas</p>
+          <p>Alquiler de andamios</p>
+          <p>Puertas seccionales</p>
+          <p>Puertas industriales</p>
+          <p>Carpintería metálica</p>
+          <p>Acero inoxidable</p>
         </div>
         <div className='one-content-form'>
           <form>

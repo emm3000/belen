@@ -3,8 +3,13 @@
     font-size: 27px;
 }
 
+.nav-bar-app {
+    height: 60px;
+}
+
 .nav-bar {
     height: 60px;
+    background-color: #253439;
     display: flex;
     justify-content: space-around;
     width: 100%;
@@ -12,6 +17,12 @@
     position: sticky;
     top: 0;
     z-index: 999;
+    transition: all 0.4s;
+}
+
+.nav-bar-scroll {
+    background: white;
+    color: black;
 }
 
 .email-box {

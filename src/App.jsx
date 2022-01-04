@@ -5,6 +5,7 @@ import SectionOne from './components/SectionOne/SectionOne'
 import SectionTwo from './components/SectionTwo/SectionTwo'
 import SectionThree from './components/SectionThree/SectionThree'
 import Footer from './components/footer/Footer'
+import AboutUs from './components/aboutUs/AboutUs'
 
 function App () {
   return (
@@ -13,6 +14,7 @@ function App () {
       <Options />
       <SectionOne />
       <SectionTwo />
+      <AboutUs />
       <SectionThree />
       <Footer />
     </div>
