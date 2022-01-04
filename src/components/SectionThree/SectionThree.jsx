@@ -28,7 +28,7 @@ export default function SectionThree () {
           <h2>EMAIL:</h2>
           <div className='th-email'>
             <EmailIcon width={40} />
-            <p>metalcord@gmail.com</p>
+            <p>metalcord.em@gmail.com</p>
           </div>
           <h2>DIRECCIÓN:</h2>
           <div className='th-email'>

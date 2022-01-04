@@ -15,7 +15,7 @@ export default function NavBar () {
       </div>
       <div className='email-box nav-one'>
         <EmailIcon width={40} />
-        <p className='email-label'>metalcord@gmail.com</p>
+        <p className='email-label'>metalcord.em@gmail.com</p>
       </div>
       {/* <div className='nav-one'>
         Datos personales
