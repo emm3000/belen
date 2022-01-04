@@ -22,12 +22,12 @@ export default function SectionTwo () {
       <p className='two-title'>NUESTROS SERVICIOS</p>
       <p className='two-subtitle'>Suministro, Fabricación y Montaje de Estructuras Metálicas</p>
       <div className='two-container'>
-        <ItemFunction imgs='https://metalconperu.com/imagenes/puertas-residenciales/puertas-seccionales-01.jpg' title='Estructuras Metálicas' />
-        <ItemFunction imgs='https://metalconperu.com/imagenes/puertas-residenciales/puertas-levadizas02.jpg' title='Alquiler de andamios' />
-        <ItemFunction imgs='https://metalconperu.com/imagenes/estructuras-metalicas/barandas-y-pasamanos-01.jpg' title='Puertas seccionales' />
-        <ItemFunction imgs='https://metalconperu.com/imagenes/estructuras-metalicas/naves-industriales-02.jpg' title='Puertas industriales ' />
+        <ItemFunction imgs='https://metalconperu.com/imagenes/productos/estructuras-metalicas.jpg' title='Estructuras Metálicas' />
+        <ItemFunction imgs='https://metalconperu.com/imagenes/productos/andamios.jpg' title='Alquiler de andamios' />
+        <ItemFunction imgs='https://metalconperu.com/imagenes/productos/puertas-residenciales.jpg' title='Puertas residenciales' />
+        <ItemFunction imgs='https://metalconperu.com/imagenes/productos/puertas-industriales.jpg' title='Puertas industriales ' />
         <ItemFunction imgs='https://metalconperu.com/imagenes/estructuras-metalicas/escaleras-metalicas-02.jpg' title='Carpintería metálica' />
-        <ItemFunction imgs='https://metalconperu.com/imagenes/estructuras-metalicas/escaleras-metalicas-01.jpg' title='Acero inoxidable' />
+        <ItemFunction imgs='https://metalconperu.com/imagenes/productos/acero-inoxidable.jpg' title='Acero inoxidable' />
       </div>
     </div>
   )
