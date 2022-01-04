@@ -12,12 +12,11 @@ export default function SectionOne () {
       </ul>
       <div className='one-content'>
         <div className='one-content-labels'>
+          <p>ESPECIALISTAS: </p>
           <p>Estructuras Metálicas</p>
-          <p>Alquiler de andamios</p>
-          <p>Puertas seccionales</p>
-          <p>Puertas industriales</p>
-          <p>Carpintería metálica</p>
           <p>Acero inoxidable</p>
+          <p>Puertas industriales </p>
+          <p>Carpintería metálica</p>
         </div>
         <div className='one-content-form'>
           <form>
